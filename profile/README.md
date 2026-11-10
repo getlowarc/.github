@@ -1,4 +1,9 @@
-# LowArc
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/getlowarc/.github/main/profile/lowarc-banner.gif" media="(prefers-reduced-motion: no-preference)">
+    <img src="https://raw.githubusercontent.com/getlowarc/.github/main/profile/lowarc-banner-still%402x.png" alt="LowArc" width="1280">
+  </picture>
+</p>
 
 Tools for making games, built to be taken a piece at a time. Two JavaScript engines, one to draw and
 one to simulate, are released; a modular game engine and the IDE around it are on the way.
